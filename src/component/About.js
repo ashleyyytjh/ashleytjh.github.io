@@ -1,8 +1,5 @@
 import React from 'react';
-import profileImage from "../images/Untitled design (1).png";
-import githubLogo from "../images/github-logo.png"
-import linkedInLogo from "../images/linkedin_black_logo_icon_147114.png"
-import { Link } from 'react-router-dom';
+import profileImage from "../images/Untitled_Artwork.png";
 import Icon from './Icon';
 export default function About() {
     return (
