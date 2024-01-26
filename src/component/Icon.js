@@ -40,7 +40,7 @@ export default function Icon(props) {
 
     return (
         <button onClick={()=> openLink(props.link)} >
-            <img className="w-10 md:w-12" alt={props.iconName} src={icons[props.iconName]}/>
+            <img className="w-10 lg:w-12" alt={props.iconName} src={icons[props.iconName]}/>
         </button>
     );
 

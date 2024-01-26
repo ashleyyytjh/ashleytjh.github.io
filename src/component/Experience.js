@@ -10,9 +10,9 @@ export default function Experience() {
                 <p class="projects-title2 flex justify-center text-2xl md:text-5xl font-bold"> Experience </p>
             </div>
 
-            <div class="project desc pt-20 md:pt-32 flex flex-row font-bold w-4/5 h-4/5">
+            <div class="project space-y-10 sm:space-y-0 desc pt-20 md:pt-32 flex flex-col items-center sm:items-start sm:flex-row font-bold w-4/5 h-4/5">
                 <div className="space-y-4 w-1/2 flex items-center flex-col">
-                    <p className=" text-lg sm:text-3xl"> Coding Languages </p>  
+                    <p className=" text-lg sm:text-3xl"> Languages </p>  
                     <div className="space-x-3 flex flex-row flex-wrap ">
                         {languages.map((languages,index)=> {
                             return (

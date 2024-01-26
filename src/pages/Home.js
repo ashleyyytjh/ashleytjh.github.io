@@ -8,10 +8,14 @@ export default function Home() {
     return (
         <div class="no-scrollbar h-screen scroll-smooth outline snap-y snap-mandatory text-primary overflow-y-auto ">
             <section id="about">
-                <div class="w-full snap-always snap-center  "> <About/> </div>
+                <div class="w-full snap-always snap-center  "> 
+                    <About/> 
+                </div>
             </section>
 
-            <div class="w-full snap-always snap-center "> <Bio/> </div>
+            <div class="w-full snap-always snap-center "> 
+                <Bio/> 
+            </div>
 
             <section id="projects">
                 <div class="w-full snap-always snap-center"> <Projects/> </div>

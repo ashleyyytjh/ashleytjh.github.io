@@ -8,9 +8,9 @@ export default function Bio () {
                 <div class="sm:w-2/5 flex flex-col justify-center md:text-base lg:text-lg text-sm  2xl:text-2xl">
                     <p> Hello im Ashley!</p> 
                     <p class="bio-desc2 pt-4">
-                        I am currently a Sophomore at Singapore Management University studying computer science. I have an deep interest in artificial intelligence and 
+                        I am currently a Sophomore at Singapore Management University studying computer science. I have a deep interest in artificial intelligence and 
                         web development. 
-                        Going beyond designing buttons and website, what excites me most about being a software engineer is being able to design and create things that have purpose and solve real problems. 
+                        Going beyond designing buttons and websites, what excites me most about being a software engineer is being able to design and create things that have purpose and solve real problems. 
                     </p>
                     <p class="bio-desc3 pt-4">
                         I value learning more and then iterating and improving my own skills!
