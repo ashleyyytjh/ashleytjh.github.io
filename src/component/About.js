@@ -5,9 +5,9 @@ export default function About() {
     return (
         <div className="h-[800px] bg-[#edf2ed]  flex flex-col justify-center items-center ">
             <div id="about-section" class=" flex md:flex-row flex-col items-center">
-                <img class="profile-img w-1/2 xl:w-[600px]" src={profileImage}/>
+                <img class="profile-img sm:w-1/2  xl:w-[600px]" src={profileImage}/>
 
-                <div class="about-content font-bold pb-32  flex flex-col justify-center items-center xl:mr-60">
+                <div class="about-content font-bold md:pb-32   flex flex-col justify-center items-center xl:mr-60">
                     <p class="about-name text-2xl md:text-4xl pb-3 " > Ashley Toh </p>
                     <div class="flex flex-col justify-center items-center lg:text-xl ">
                         <p class="about-major "> BSc Computer Science </p>
@@ -21,7 +21,7 @@ export default function About() {
                 </div>
             </div>
 
-            <div class=" font-bold flex flex-col justify-center items-center pt-10  ">
+            <div class=" font-bold flex flex-col justify-center items-center ">
                 <p className="lg:text-2xl text-xl"> scroll for more!</p>
             
             </div>
