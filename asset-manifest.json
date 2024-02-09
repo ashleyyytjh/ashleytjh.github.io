@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.aa77fa6d.css",
-    "main.js": "/portfolio/static/js/main.a1d4daad.js",
+    "main.js": "/portfolio/static/js/main.96a923e0.js",
     "static/js/787.7da95b79.chunk.js": "/portfolio/static/js/787.7da95b79.chunk.js",
     "static/media/barbenheimer.png": "/portfolio/static/media/barbenheimer.046dae6f1a8521099711.png",
     "static/media/Untitled design (4).png": "/portfolio/static/media/Untitled design (4).c1b792b4e9b8b8024e63.png",
@@ -24,11 +24,11 @@
     "static/media/tailwind-css.svg": "/portfolio/static/media/tailwind-css.cf15c98ae5f8b81339d168d394c31ecf.svg",
     "static/media/material-ui.svg": "/portfolio/static/media/material-ui.fd510ed8518b192069590b04e2e6348a.svg",
     "main.aa77fa6d.css.map": "/portfolio/static/css/main.aa77fa6d.css.map",
-    "main.a1d4daad.js.map": "/portfolio/static/js/main.a1d4daad.js.map",
+    "main.96a923e0.js.map": "/portfolio/static/js/main.96a923e0.js.map",
     "787.7da95b79.chunk.js.map": "/portfolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aa77fa6d.css",
-    "static/js/main.a1d4daad.js"
+    "static/js/main.96a923e0.js"
   ]
 }
