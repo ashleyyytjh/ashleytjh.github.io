@@ -8,7 +8,7 @@ export const projects = [
     {
         title: "Barbenheimer",
         img: barbenheimerImg,
-        description: "Barbenheimer is a movie theatre website that is designed to showcase theatre websites in a more elegant way. website that encompasses a range of features. These include the ability to purchase tickets, seamless integration with Stripe for secure payments, options for selecting showtimes and seats, and a built-in ticket mailer for user convenience.",
+        description: "Barbenheimer is a movie theatre website that is designed to showcase theatre websites in a more elegant way. website that encompasses a range of features. These include the ability to purchase tickets, seamless integration with Stripe for secure payments, options for selecting showtimes and seats and a built-in ticket mailer for user convenience.",
         techStack:["typescript","react","nextjs","nodejs","java","figma", "materialui","stripe"],
         links : [
             {
